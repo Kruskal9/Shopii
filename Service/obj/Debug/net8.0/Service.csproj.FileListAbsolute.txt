@@ -1,0 +1,17 @@
+D:\nam4\dotnet_project\Shopii\Service\bin\Debug\net8.0\Service.deps.json
+D:\nam4\dotnet_project\Shopii\Service\bin\Debug\net8.0\Service.dll
+D:\nam4\dotnet_project\Shopii\Service\bin\Debug\net8.0\Service.pdb
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.dll
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\refint\Service.dll
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.pdb
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\ref\Service.dll
+D:\nam4\dotnet_project\Shopii\Service\bin\Debug\net8.0\Data.dll
+D:\nam4\dotnet_project\Shopii\Service\bin\Debug\net8.0\Domain.dll
+D:\nam4\dotnet_project\Shopii\Service\bin\Debug\net8.0\Data.pdb
+D:\nam4\dotnet_project\Shopii\Service\bin\Debug\net8.0\Domain.pdb
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\nam4\dotnet_project\Shopii\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
